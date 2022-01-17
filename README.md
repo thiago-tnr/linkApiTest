@@ -11,7 +11,7 @@ Inicialmente é necessário configurar as variáveis de ambiente no arquivo `.en
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- TypeCript
+- TypeScript
 - NodeJS
 - Express
 - MongoDB
